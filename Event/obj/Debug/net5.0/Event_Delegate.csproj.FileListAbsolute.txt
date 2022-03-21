@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\bin\Debug\net5.0\Event_Delegate.exe
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\bin\Debug\net5.0\Event_Delegate.deps.json
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\bin\Debug\net5.0\Event_Delegate.runtimeconfig.json
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\bin\Debug\net5.0\Event_Delegate.runtimeconfig.dev.json
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\bin\Debug\net5.0\Event_Delegate.dll
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\bin\Debug\net5.0\ref\Event_Delegate.dll
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\bin\Debug\net5.0\Event_Delegate.pdb
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\obj\Debug\net5.0\Event_Delegate.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\obj\Debug\net5.0\Event_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\obj\Debug\net5.0\Event_Delegate.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\obj\Debug\net5.0\Event_Delegate.AssemblyInfo.cs
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\obj\Debug\net5.0\Event_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\obj\Debug\net5.0\Event_Delegate.dll
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\obj\Debug\net5.0\ref\Event_Delegate.dll
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\obj\Debug\net5.0\Event_Delegate.pdb
+C:\Users\User\source\repos\Event_Delegate\Event_Delegate\obj\Debug\net5.0\Event_Delegate.genruntimeconfig.cache

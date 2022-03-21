@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3UOFDy8qZBHdsKGV4uI/uQlw3HqjTCav2rGiRGGFFKeFqplbF+W0I45QFHx9R0WfqHC8y0auOOnjKwfC7/LfbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Event_Delegate\\Event_Delegate\\Event_Delegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
