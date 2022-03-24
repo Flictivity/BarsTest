@@ -8,12 +8,12 @@ namespace Event_Delegate
 
         public void Run()
         {
-            var inputStr = Console.ReadKey().KeyChar;
-            while (inputStr != 'c')
+            var inputCh = Console.ReadKey().KeyChar;
+            while (inputCh != 'c')
             {
                 OneKeyPressed?.Invoke(this, inputStr);
 
-                inputStr = Console.ReadKey().KeyChar; 
+                inputCh = Console.ReadKey().KeyChar; 
             }
         }
     }
