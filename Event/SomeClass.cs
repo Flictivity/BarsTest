@@ -11,7 +11,7 @@ namespace Event_Delegate
             var inputCh = Console.ReadKey().KeyChar;
             while (inputCh != 'c')
             {
-                OneKeyPressed?.Invoke(this, inputStr);
+                OneKeyPressed?.Invoke(this, inputCh);
 
                 inputCh = Console.ReadKey().KeyChar; 
             }
