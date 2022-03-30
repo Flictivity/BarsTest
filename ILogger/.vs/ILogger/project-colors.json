@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1505955a-7a31-4a7a-9276-96b2ba0a9344": {
+      "ProjectGuid": "1505955a-7a31-4a7a-9276-96b2ba0a9344",
+      "DisplayName": "ILogger",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
