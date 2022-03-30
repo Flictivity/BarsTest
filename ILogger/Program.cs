@@ -11,7 +11,7 @@ namespace ILogger
             var stringILogger = new LocalFileLogger<string>(path);
             stringILogger.LogInfo("LogInfo test: string");
             stringILogger.LogWarning("LogWarning test: string");
-            stringILogger.LogError("LogError test: string", new Exception("Exeption test: string"));
+            stringILogger.LogError("LogError test: string", new Exception("Exeption test: string1"));
 
             var intILogger = new LocalFileLogger<int>(path);
             intILogger.LogInfo("LogInfo test: int");
